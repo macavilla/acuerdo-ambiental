@@ -7,3 +7,4 @@ Entrevista a Ana Alurralde, Ingeniera Agronóma y docente Universidad Nacional d
 
 ###📻 Charlamos sobre : 
 Suelos catamarqueños; Materia orgánica; Desarrolo agrícola; Yungas Catamarqueñas y problemáticas referidas a los suelos en la provincia.
+****

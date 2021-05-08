@@ -2,6 +2,8 @@
 TODO:
 
 ###agregar el iframe de la radio
+###logo
+
 agregar instagram de @acuerdoambiental
 buscar foto piola para la home
 definir paleta de colores
