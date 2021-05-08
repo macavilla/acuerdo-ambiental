@@ -1,6 +1,6 @@
 ---
 title: 'Radio Acuerdo Ambiental'
-metaDesc: 'Radio Acuerdo Ambiental: desde el Rodeo, Catamarca al mundo'
+metaDesc: 'Radio Acuerdo Ambiental, desde el Rodeo, Catamarca al mundo'
 layout: 'layouts/home.html'
 intro:
   eyebrow: 'Hacemos radio'
@@ -10,6 +10,10 @@ intro:
   buttonUrl: '/work'
   image: '/images/bg/toast.jpg'
   imageAlt: 'Buttered toasted white bread'
+radio:
+  eyebrow: 'Escuchanos acá'
+  iframeSrc: 'https://server.acuerdoambiental.com.ar/public/acuerdo_ambiental/embed?theme=light'
+
 primaryCTA:
   title: 'Esta es nuestra radio autogestiva'
   summary:
