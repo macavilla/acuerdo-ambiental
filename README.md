@@ -1,3 +1,5 @@
-# piccalilli-eleventy-course
+# radio acuerdo ambiental
 
-This is a made up agency for the course, “Learn Eleventy From Scratch”.
+web de la radio de acuerdo ambiental, desde el Rodeo Catamarca hasta el mundo 
+
+made with love and eleventy 
