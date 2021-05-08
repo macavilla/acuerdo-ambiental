@@ -1,6 +1,6 @@
 ---
 title: 'Radio Acuerdo Ambiental'
-metaDesc: 'Radio Acuerdo Ambiental, desde el Rodeo, Catamarca al mundo'
+metaDesc: 'Radio Acuerdo Ambiental: desde el Rodeo, Catamarca al mundo'
 layout: 'layouts/home.html'
 intro:
   eyebrow: 'Hacemos radio'
