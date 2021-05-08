@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Inicio",
+      "url": "/"
+    },
+    {
+      "text": "Quienes somos",
+      "url": "/about-us/"
+    },
+    {
+      "text": "Episodios",
+      "url": "/work/"
+    },
+    {
+      "text": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "text": "Contacto",
+      "url": "/contact/"
+    }
+  ]
+}
