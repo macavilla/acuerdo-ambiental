@@ -11,12 +11,15 @@
         z-index: 1;
         grid-row: 2;
         margin: 0 get-size('500'); // Adds a horizontal gutter
-
+        padding: get-size('300');
+        
         // Prevents it from stretching to fill the space
         align-self: center;
     }
-
+    
     &__heading {
+        margin: get-size('300') 0 get-size('500'); 
+        text-align: center;
         em {
             font-style: normal;
             display: block;
