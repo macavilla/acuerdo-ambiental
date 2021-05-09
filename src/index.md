@@ -8,8 +8,8 @@ intro:
   summary: 'Es un programa radial que busca analizar y dar a conocer diferentes organizaciones, proyectos y prácticas socioambientales que se desarrollan en la Provincia de Catamarca. Se emite los días domingos de 18 a 19hs por Radio Ambato Fm 93.5, Ambato.'
   buttonText: 'Nuestros episodios'
   buttonUrl: '/work'
-  image: '/images/bg/toast.jpg'
-  imageAlt: 'Buttered toasted white bread'
+  image: '/images/bg/antofagasta.jpg'
+  imageAlt: 'Paisaje de Antofagasta, Catamarca'
 radio:
   eyebrow: 'Escuchanos acá'
   iframeSrc: 'https://server.acuerdoambiental.com.ar/public/acuerdo_ambiental/embed?theme=light'

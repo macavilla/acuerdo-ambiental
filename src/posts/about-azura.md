@@ -1,7 +1,7 @@
 ---
 title: 'Corriendo gracias a AzuraCast'
 date: '2021-05-12'
-tags: 'software', 'selfhost', 'radio'
+tags: 'software'
 ---
 
 ## Software Libre para radios independientes
