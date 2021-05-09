@@ -1,7 +1,7 @@
 ---
 title: 'Ser Dj en una radio online'
 date: '2021-05-12'
-tags: 'software', 'musica', 'radio'
+tags: 'software'
 ---
 
 ## Cómo ser un Dj de radio online usando AzuraCast
