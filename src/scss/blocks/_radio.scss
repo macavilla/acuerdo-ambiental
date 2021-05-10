@@ -1,38 +1,36 @@
 .radio {
     // Default is a single column layout where the header overlaps the media
-    display: grid;
-    grid-template-rows: get-size('700') minmax(0, 1fr) get-size('700') auto;
-    grid-gap: get-size('500');
+    // display: grid;
+    // grid-template-rows: get-size('700') minmax(0, 1fr) get-size('700') auto;
+    // grid-gap: get-size('500');
 
-
-    &__header {
-        padding: get-size('300') get-size('500');
-        background: rgba(get-color('tertiary'), 0.95);
-        z-index: 1;
-        grid-row: 2;
-        margin: 0 get-size('500'); // Adds a horizontal gutter
-        padding: get-size('300');
+    // &__header {
+    //     padding: get-size('300') get-size('300');
+    //     background: rgba(get-color('tertiary'), 0.95);
+    //     z-index: 1;
+    //     grid-row: 2;
+    //     // margin: 0 get-size('500'); // Adds a horizontal gutter
+    //     padding: get-size('300');
         
-        // Prevents it from stretching to fill the space
-        align-self: center;
-    }
+    //     // Prevents it from stretching to fill the space
+    //     align-self: center;
+    // }
     
-    &__heading {
-        margin: get-size('300') 0 get-size('500'); 
-        text-align: center;
-        em {
-            font-style: normal;
-            display: block;
+    // &__heading {
+    //     margin: get-size('300') 0 get-size('500'); 
+    //     text-align: center;
+    //     em {
+    //         font-style: normal;
+    //         display: block;
 
-            // The weight change creates a weird indent, so this
-            // optical adjustment fixes it
-            transform: translateX(-3px);
-        }
-    }
+    //         // The weight change creates a weird indent, so this
+    //         // optical adjustment fixes it
+    //         transform: translateX(-3px);
+    //     }
+    // }
 
     &__player {
-        grid-row: 1/4;
-        position: relative;
+        padding: get-size('300') get-size('500') 0;
 
         iframe {
             width: 100%;

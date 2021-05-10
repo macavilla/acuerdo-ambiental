@@ -1,0 +1,15 @@
+{% if radio %}
+{% set ctaPrefix = ctaContent %}
+
+<article class="radio wrapper">
+  {# <div class="[ radio__header ] [ radius frame ]">
+    <h1 class="[ radio__heading ] [ weight-normal text-400 md:text-600 ] [ color-dark ]">
+      {{ radio.eyebrow }}
+    </h1>
+  </div> #}
+    <div class="[ radio__player ] [ radius frame ] [ bg-tertiary-shade color-dark flow-space-400 ]">
+      <iframe src="{{radio.iframeSrc}}" class="[ radio__iframe ] [ bg-tertiary-light color-dark flow-space-400 ]"
+        frameborder="0" allowtransparency="true"></iframe>
+    </div>
+</article>
+{% endif %}
